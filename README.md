@@ -190,7 +190,7 @@ security-infrastructure-monitoring-stack/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/<username>/security-infrastructure-monitoring-stack.git
+git clone https://github.com/apexajay-rc/security-infrastructure-monitoring-stack.git
 
 cd security-infrastructure-monitoring-stack
 ```
